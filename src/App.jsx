@@ -70,10 +70,11 @@ function App() {
 
         </Routes> */}
 
-        <MovieBook name="karuppu" rating="5" setnames={setnames} />
+        {/* <MovieBook name="karuppu" rating="5" setnames={setnames} /> */}
                 {/* <MovieBook name="mankatha" rating="8" setnames={setnames}  /> */}
 
-
+<Product />
+<h2>Arunachalam</h2>
       </div>
     </BrowserRouter>
   )
