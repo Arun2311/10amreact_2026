@@ -74,7 +74,9 @@ function App() {
                 {/* <MovieBook name="mankatha" rating="8" setnames={setnames}  /> */}
 
 <Product />
-<h2>Arunachalam</h2>
+<h2>luffy </h2>
+
+
       </div>
     </BrowserRouter>
   )
